@@ -1,20 +1,9 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-  ?font=Fira+Code
-  &size=24
-  &pause=1000
-  &color=00FF00
-  &center=true
-  &vCenter=true
-  &width=900
-  &lines=Welcome+to+my+profile;
-  My+name+is+Halil+Albayrak;
-  Cyber+Security+Enthusiast;
-  Software+Developer"
-  alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+my+profile;My+name+is+Halil+Albayrak;Cyber+Security+Developer;Software+Engineer" />
 </div>
+
 
 
 
