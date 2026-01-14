@@ -4,16 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&background=FFFFFF00&lines=Welcome+to+my+profile;My+name+is+Danil+Borkov;I+am+a+DevOps+engineer&center=true"; alt="Typing SVG" />
 </div>
 
-___
-
-<p align="center">
-  <a href="https://github.com/HalilAlb/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HalilAlb&theme=matrix&no-frame=true&no-bg=true&row=1&column=3" alt="trophy" />
-  </a>
-</p>
 
 
-___
+
+
+
+
+
+
+
+
+
+
 
 <img src="https://raw.githubusercontent.com/HalilAlb/HalilAlb/output/snake.svg" width = 1500 alt="Snake animation" />
 
