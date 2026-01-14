@@ -12,19 +12,6 @@ ___
   </a>
 </p>
 
-___
-
-<div align="center">
-  <a href="https://codestats.net/users/HalilAlb" target="_blank">
-    <img src="https://codestats-readme.wegfan.cn/history-graph/HalilAlb?history_days=30&max_languages=12" alt="Code::Stats history graph" />
-  </a>
-</div>
-
-<div align="right">
-  <a href="https://wakatime.com/@c2eea5ba-3079-4fa5-8d83-15f10e89cc66">
-    <img src="https://wakatime.com/badge/user/c2eea5ba-3079-4fa5-8d83-15f10e89cc66.svg?color=178600" alt="wakatime" />
-  </a>
-</div>
 
 ___
 
