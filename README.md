@@ -1,16 +1,37 @@
-## Hi there 👋
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-<!--
-**HalilAlb/HalilAlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&background=FFFFFF00&lines=Welcome+to+my+profile;My+name+is+Danil+Borkov;I+am+a+DevOps+engineer&center=true"; alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/HalilAlb/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HalilAlb&theme=matrix&no-frame=true&no-bg=true&row=1&column=3" alt="trophy" />
+  </a>
+</p>
+
+___
+
+<div align="center">
+  <a href="https://codestats.net/users/HalilAlb" target="_blank">
+    <img src="https://codestats-readme.wegfan.cn/history-graph/HalilAlb?history_days=30&max_languages=12" alt="Code::Stats history graph" />
+  </a>
+</div>
+
+<div align="right">
+  <a href="https://wakatime.com/@c2eea5ba-3079-4fa5-8d83-15f10e89cc66">
+    <img src="https://wakatime.com/badge/user/c2eea5ba-3079-4fa5-8d83-15f10e89cc66.svg?color=178600" alt="wakatime" />
+  </a>
+</div>
+
+___
+
+<img src="https://raw.githubusercontent.com/HalilAlb/HalilAlb/output/snake.svg" width = 1500 alt="Snake animation" />
+
+___
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=HalilAlb&color=178600" alt="Profile Views" />
+</div>
